@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>CombuCalc</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>CombuCalc</h1>
+    <h3>Calcule o consumo médio de combustível do seu carro</h3>
+    <p>Digite os valores do último abastecimento e a distância percorrida para descobrir quantos litros por km seu carro consome em média.</p>
+
+    <form id="calcForm">
+        <label for="ultimoAbastecimento">Último abastecimento (L):</label>
+        <input type="number" id="ultimoAbastecimento" step="0.01" required>
+
+        <label for="ultimaDistancia">Distância percorrida desde o último abastecimento (km):</label>
+        <input type="number" id="ultimaDistancia" step="0.1" required>
+
+        <button type="submit">Calcular</button>
+    </form>
+
+    <div id="resultado"></div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
