@@ -28,7 +28,6 @@ ENTREGA_INICIAL/
 
 ## 💻 Tecnologias usadas
 
-
 - HTML5
 - CSS3 
 - JavaScript 
@@ -43,6 +42,20 @@ ENTREGA_INICIAL/
 - Mensagens de erro aparecem inline, sem usar alert.
 
 ---
+## ⬇️  Download
+
+- [**Baixe o projeto em .ZIP aqui**](https://github.com/GabrielGSLS/Entrega_Inicial_ConsuCar/archive/refs/heads/main.zip)
+
+---
+## 🔧 Instalação Manual
+
+- Aba chrome://extensions → ative Developer mode.
+- Clique em Load unpacked e selecione a pasta do projeto.
+
+---
+## ☑️ Permissões
+
+- Storage.
 
 ## 🔗 Créditos
 
