@@ -1,6 +1,6 @@
-# ConsuCalc
+# ConsuCar
 
-**ConsuCalc** é uma extensão para Google Chrome que permite calcular o **consumo médio de combustível** do veículo de forma rápida e prática. Ideal para planejar viagens ou monitorar a eficiência do carro.
+**ConsuCar** é uma extensão para Google Chrome que permite calcular o **consumo médio de combustível** do veículo de forma rápida e prática. Ideal para planejar viagens ou monitorar a eficiência do carro.
 
 ---
 
