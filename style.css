@@ -13,7 +13,6 @@ body {
     width: 320px;
     padding: 15px;
     background-color: #ffffff;
-    color: #5c007d;
 }
 
 
@@ -130,10 +129,21 @@ button[type="submit"]:hover {
 }
 
 
-/* === Estilos opcionais para ícones/imagens === */
-img {
-    display: block;
-    margin: 10px auto;
-    max-width: 50px;
-    height: auto;
+body .footer {
+    margin-top: 15px;
+    font-size: 0.6em;       
+    text-align: center;      
+    color: #333333 !important;
+    line-height: 1.2;     
 }
+
+body .footer a {
+    color: #ff7b00;         
+    text-decoration: none;   
+}
+
+body .footer a:hover {
+    text-decoration: underline; 
+}
+
+
