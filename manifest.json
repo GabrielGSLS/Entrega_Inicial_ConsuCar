@@ -6,24 +6,19 @@
     "icons": {
         "16": "img/gas-pump.png",
         "48": "img/gas-pump.png",
-        "128":"img/gas-pump.png"
+        "128": "img/gas-pump.png"
     },
-    
     "action": {
         "default_title": "Gasolina",
         "default_popup": "popup.html",
         "default_icon": {
             "16": "img/gas-pump.png",
             "48": "img/gas-pump.png",
-            "128":"img/gas-pump.png"
+            "128": "img/gas-pump.png"
         }
     },
-
-    "background": {
-        "service_worker": "background/service_worker.js"
-    },
-    "permissions": ["storage"],
-
-    "host_permissions": [  ]
-    
+    "permissions": [
+        "storage"
+    ],
+    "host_permissions": []
 }
