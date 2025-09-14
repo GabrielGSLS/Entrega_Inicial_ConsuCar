@@ -1,13 +1,12 @@
 {
     "manifest_version": 3,
     "name": "ConsuCar",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "Extensão inicial do Bootcamp II para praticar MV3 - ConsuCar",
     "icons": {
-        "16": "icons/icon16.png",
-        "32": "icons/icon32.png",
-        "48": "icons/icon48.png",
-        "128": "icons/icon128.png"
+        "16": "img/gas-pump.png",
+        "48": "img/gas-pump.png",
+        "128":"img/gas-pump.png"
     },
     
     "action": {
@@ -16,12 +15,12 @@
         "default_icon": {
             "16": "img/gas-pump.png",
             "48": "img/gas-pump.png",
-            "128": "img/gas-pump.png"
+            "128":"img/gas-pump.png"
         }
     },
 
     "background": {
-        "service_worker": "src/background/service-worker.js"
+        "service_worker": "/background/service_worker.js"
     },
     "permissions": ["storage"],
 
