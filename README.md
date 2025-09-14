@@ -46,6 +46,6 @@ ENTREGA_INICIAL/
 
 ## 🔗 Créditos
 
-- Projeto inicial de autoria de Gabriel para a disciplina Bootcamp II
+- Projeto inicial de autoria de Gabriel para a disciplina Bootcamp II.
 - Ícone da bomba de gasolina: [Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/gas)
 
